@@ -13,4 +13,4 @@ Premium software engineering and digital transformation agency based in Singapor
 * **Cloud & Infrastructure:** AWS, Google Cloud, Docker, Kubernetes
 
 ---
-📧 **Get in Touch:** [lahiru@webxnative.com](mailto:lahiru@webxnative.com) | 🌐 **Website:** [webxnative.com](https://webxnative.com)
+📧 **Get in Touch:** [support@webxnative.com](mailto:support@webxnative.com) | 🌐 **Website:** [webxnative.com](https://webxnative.com)
